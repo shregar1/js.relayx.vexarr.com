@@ -4,6 +4,10 @@
   "description": "TypeScript SDK for the RelayX OpenAI-compatible AI gateway",
   "license": "Apache-2.0",
   "author": "RelayX",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shregar1/js.relayx.vexarr.com"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
